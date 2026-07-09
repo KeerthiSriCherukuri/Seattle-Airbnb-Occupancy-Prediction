@@ -144,7 +144,7 @@ SHAP (Shapley Additive Explanations) values were computed on the Decision Tree t
 
 
 
-## 🔮 Future Work
+## Future Work
 
 - Seasonal trend integration
 - Dynamic pricing models
@@ -153,7 +153,7 @@ SHAP (Shapley Additive Explanations) values were computed on the Decision Tree t
 
 ---
 
-## 📚 References
+## References
 
 - Wang, D., & Nicolau, J. L. (2017). Price determinants of sharing economy accommodation. *International Journal of Hospitality Management*, 62, 120–131.
 - Zhang, Z., & Wei, L. (2019). Predicting short-term rental prices using machine learning. *Journal of Information and Data Management*, 10(3), 200–214.
@@ -161,11 +161,10 @@ SHAP (Shapley Additive Explanations) values were computed on the Decision Tree t
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 Special thanks to **Prof. Minsek "Cal" Ko, PhD** — Assistant Professor, Department of Business & Information Technology, Missouri S&T — for guiding our team from the very beginning to the final presentation. His mentorship and feedback were invaluable throughout this project.
 
----
 
 > 📍 Missouri University of Science and Technology | Information Science | Aug–Dec 2025
 > Team: Jhansimala Silla, Vishesha Bitla, Gafaruddin Shaik, Keerthi Sri Cherukuri
